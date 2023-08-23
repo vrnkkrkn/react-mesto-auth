@@ -42,3 +42,9 @@
 @import url(./blocks/profile/__icon/profile__icon.css);
 @import url(./blocks/element/__trash/_type/element__trash_type_visible.css);
 @import url(./blocks/element/__trash/_type/element__trash_type_invisible.css);
+@import url(./blocks/authorization/authorization.css);
+@import url(./blocks/authorization/__form/authorization__form.css);
+@import url(./blocks/authorization/__input/authorization__input.css);
+@import url(./blocks/authorization/__text/authorization__text.css);
+@import url(./blocks/authorization/__title/authorization__title.css);
+@import url(./blocks/authorization/button/authorization__button.css);
